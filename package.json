@@ -1,0 +1,24 @@
+{
+  "name": "apprestapiku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asepfkom/restapiku.git"
+  },
+  "keywords": [
+    "rest",
+    "apiku",
+    "nodejs"
+  ],
+  "author": "asep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asepfkom/restapiku/issues"
+  },
+  "homepage": "https://github.com/asepfkom/restapiku#readme"
+}
